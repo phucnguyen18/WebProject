@@ -1,2 +1,2 @@
 t là file 4
-T đã chỉnh sửa máy 2
+T đã chỉnh sửa máy 2 tạo xung đột
