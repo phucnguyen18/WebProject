@@ -1,7 +1,7 @@
 t là file 4
-<<<<<<< HEAD
+
 T đã chỉnh sửa máy 1
 
-=======
+
 T đã chỉnh sửa máy 2 tạo xung đột
->>>>>>> dcc7a3159184f8c6159657273b3861e13f1481fe
+
