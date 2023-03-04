@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 abc
+=======
+ok 
+ss
+>>>>>>> NhanVienB
