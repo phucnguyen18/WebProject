@@ -2,3 +2,5 @@ hello file 1 quay trở lại r đây
 
 Nội dung máy tính 2 
 
+t thêm file số 6 ngày học gitgui
+
