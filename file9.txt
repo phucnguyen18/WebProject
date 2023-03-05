@@ -11,9 +11,9 @@ t sửa nè
 
 t main t thích sửa
 
-<<<<<<< HEAD
+
 t main nè
-=======
+
 t nhánh c nè
->>>>>>> NhanVienC
+
 
