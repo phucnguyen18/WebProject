@@ -12,4 +12,5 @@ t sửa nè
 t main t thích sửa
 
 t nhánh c nè
+c là t
 
